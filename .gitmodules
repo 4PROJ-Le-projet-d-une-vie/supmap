@@ -1,0 +1,3 @@
+[submodule "supmap-users"]
+	path = supmap-users
+	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-users.git
