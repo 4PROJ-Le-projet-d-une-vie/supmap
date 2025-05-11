@@ -37,16 +37,17 @@ Le repository `supmap-devops` est le point central du projet, car il centralise 
 
 Chaque sous-projet inclut sa propre documentation. Nous avons converti au format PDF l'entièreté de ces documentations.
 
-| Service           | Documentation PDF | Documentation MD                                                      |
-|-------------------|-------------------|-----------------------------------------------------------------------|
-| supmap-gateway    | []()              | [README.md](./supmap-gateway/README.md)                               |
-| supmap-users      | []()              | [README.md](./supmap-users/README.md)                                 |
-| supmap-gis        | []()              | [README.md](./supmap-gis/README.md)                                   |
-| supmap-incidents  | []()              | [README.md](./supmap-incidents/README.md)                             |
-| supmap-navigation | []()              | [README.md](./supmap-navigation/README.md)                            |
-| supmap-front      | []()              | [TechnicalDocumentation.md](./supmap-front/TechnicalDocumentation.md) |
-| supmap-webapp     | []()              | [README.md](./supmap-webapp/README.md)                                |
-| supmap-devops     | []()              | [README.md](./supmap-devops/README.md)                                |
+| Service           | Documentation PDF                                            | Documentation MD                                                      |
+|-------------------|--------------------------------------------------------------|-----------------------------------------------------------------------|
+| supmap-gateway    | [gateway.pdf](docs/gateway.pdf)                              | [README.md](./supmap-gateway/README.md)                               |
+| supmap-users      | [users.pdf](docs/users.pdf)                                  | [README.md](./supmap-users/README.md)                                 |
+| supmap-gis        | [gis.pdf](docs/gis.pdf)                                      | [README.md](./supmap-gis/README.md)                                   |
+| supmap-incidents  | [incidents.pdf](docs/incidents.pdf)                          | [README.md](./supmap-incidents/README.md)                             |
+| supmap-navigation | [navigation.pdf](docs/navigation.pdf)                        | [README.md](./supmap-navigation/README.md)                            |
+| supmap-front      | [front.pdf](docs/front.pdf)                                  | [TechnicalDocumentation.md](./supmap-front/TechnicalDocumentation.md) |
+| supmap-webapp     | [webapp.pdf](docs/webapp.pdf)                                | [README.md](./supmap-webapp/README.md)                                |
+| supmap-devops     | [devops.pdf](docs/devops.pdf)                                | [README.md](./supmap-devops/README.md)                                |
+| Globale           | [technical_documentation.pdf](./technical_documentation.pdf) | [technical_documentation.md](./technical_documentation.md)            |
 
 > NB: Les fichiers au format PDF contient quelques soucis de format. En cas de soucis, référencez-vous au fichier Markdown associé ou consultez ce même fichier sur Github.
 
