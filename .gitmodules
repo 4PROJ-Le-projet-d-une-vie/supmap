@@ -19,3 +19,6 @@
 [submodule "supmap-devops"]
 	path = supmap-devops
 	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-devops.git
+[submodule "supmap-navigation"]
+	path = supmap-navigation
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-navigation.git
