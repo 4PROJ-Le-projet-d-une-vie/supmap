@@ -7,3 +7,6 @@
 [submodule "supmap-gis"]
 	path = supmap-gis
 	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-gis.git
+[submodule "supmap-front"]
+	path = supmap-front
+	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-front.git
