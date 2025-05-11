@@ -4,3 +4,6 @@
 [submodule "supmap-incidents"]
 	path = supmap-incidents
 	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-incidents.git
+[submodule "supmap-gis"]
+	path = supmap-gis
+	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-gis.git
