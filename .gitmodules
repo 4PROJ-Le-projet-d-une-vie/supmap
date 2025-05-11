@@ -16,3 +16,6 @@
 [submodule "supmap-gateway"]
 	path = supmap-gateway
 	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-gateway.git
+[submodule "supmap-devops"]
+	path = supmap-devops
+	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-devops.git
