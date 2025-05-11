@@ -13,3 +13,6 @@
 [submodule "supmap-webapp"]
 	path = supmap-webapp
 	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-webapp.git
+[submodule "supmap-gateway"]
+	path = supmap-gateway
+	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-gateway.git
