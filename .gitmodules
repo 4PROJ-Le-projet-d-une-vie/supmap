@@ -1,21 +1,21 @@
 [submodule "supmap-users"]
 	path = supmap-users
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-users.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-users.git
 [submodule "supmap-incidents"]
 	path = supmap-incidents
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-incidents.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-incidents.git
 [submodule "supmap-gis"]
 	path = supmap-gis
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-gis.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-gis.git
 [submodule "supmap-front"]
 	path = supmap-front
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-front.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-front.git
 [submodule "supmap-webapp"]
 	path = supmap-webapp
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-webapp.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-webapp.git
 [submodule "supmap-gateway"]
 	path = supmap-gateway
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-gateway.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-gateway.git
 [submodule "supmap-devops"]
 	path = supmap-devops
-	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-devops.git
+	url = git@github.com:4PROJ-Le-projet-d-une-vie/supmap-devops.git
