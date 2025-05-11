@@ -15,3 +15,7 @@ Grâce à cela, nous n'avons pas eu besoin de faire de configuration en plus sur
 
 Grâce aussi à cette infrastructure, les utilisateurs n'effectuent pas de requêtes directement sur les serveurs de production. Tout passe par la Gateway qui ensuit communique avec le serveur PROD-01.
 Une couche de sécurité en plus qui n'est pas négligeable.
+
+Ci dessous, le schéma d'infrastructure final :
+
+![infra_4proj.png](./docs/img/infra_4proj.png)
