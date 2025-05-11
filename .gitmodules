@@ -10,3 +10,6 @@
 [submodule "supmap-front"]
 	path = supmap-front
 	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-front.git
+[submodule "supmap-webapp"]
+	path = supmap-webapp
+	url = https://github.com/4PROJ-Le-projet-d-une-vie/supmap-webapp.git
